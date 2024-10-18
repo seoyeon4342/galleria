@@ -63,6 +63,7 @@ header+ section> h2{
 #fade{
     position:relative;
 }
+#fade img {transition: opacity 1.5s;}
 #fade a:not(:first-child){
     position:absolute; top:0;
 }
