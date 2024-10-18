@@ -16,7 +16,7 @@ img{
 
 /* 상단 */
 header {
-    height: 100px; margin-bottom: 40px;
+    height: 110px; margin-bottom: 40px;
     display: flex; padding-top: 20px; background: black;
 }
 header img {
@@ -71,7 +71,7 @@ header+ section> h2{
 
 /* 메인 */
 main{
-    display:flex; padding:20px; 
+    display:flex; padding:20px; margin-top: 20px;
 }
 main section {
     margin: 10px;
@@ -110,7 +110,7 @@ main section {
     opacity: 1; z-index: 1;
 }
 #popup {
-    background: white; width: 600px; padding: 50px; margin-top: 20vh; margin-left: 30%; border-radius: 20px; box-shadow: 0 0 10px black; padding: 50px 50px 100px;
+    background: white; width: 600px; padding: 50px; margin-top: 20vh; margin-left: 30%; border-radius: 20px; box-shadow: 0 0 10px black; padding: 50px 50px 100px; 
 }
 #popup img {
     width:400px; padding-left: 60px;
