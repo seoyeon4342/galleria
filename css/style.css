@@ -16,10 +16,11 @@ img{
 
 /* 상단 */
 header {
-    height: 100px; padding-bottom: 10px; display: flex; padding-top: 20px; background: black;
+    height: 100px; margin-bottom: 40px;
+    display: flex; padding-top: 20px; background: black;
 }
 header img {
-    margin-left: 50px;
+    margin-left: 50px; width: 55%;
  } 
 header > a {
     margin-left:20px;
